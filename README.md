@@ -5,7 +5,7 @@ Aprenda FilamentPHP na prática e esteja preparado para o Filament v4!
 O FilamentPHP é um projeto que visa simplificar a criação de paineis administrativos complexos e é construido
 sobre o Livewire, agregando assim, muita reatividade sem dor de cabeça!
 
-No Filament podemos, dentre outras coisas, criar gerenciamentos com ações, filtros, forms e muito mais! Realmente isso é só a ponta do iceberg de produtivodade!
+No Filament podemos, dentre outras coisas, criar gerenciamentos com ações, filtros, forms e muito mais! Realmente isso é só a ponta do iceberg de produtividade!
 
 O que você vai aprender neste workshop:
 
@@ -42,4 +42,4 @@ Para esta edição dispomos apenas do PIX direto, veja as instruções abaixo:
 - Assim que realizar, me notifique via whatsapp, com o comprovante, neste [link](https://bit.ly/40JeFVs)
 - A partir do contato via whats agente prossegue com os outros passos mas sua inscrição está garantida
 
-Demais dúvidas, me procure no chat em (codeexperts.com.br)[https://codeexperts.com.br)
+Demais dúvidas, me procure no chat em [codeexperts.com.br](https://codeexperts.com.br)
