@@ -26,9 +26,11 @@ Venha ter produtividade na criação de suas aplicações com Laravel + Filament
 
 ## Quando acontece?
 
-O workshop será de 8 horas divididos entre dois dias: Quinta 31/07 (18 às 22) e Sábado 02/08 (08 às 12)
+O workshop será de 8 horas divididos entre dois dias: Quinta 07/08 (18 às 22) e Sábado 09/08 (08 às 12)
 
 ## Preços e bônus
+
+## **Como prorrogamos a data do workshop, até segunda-feira, às 23:59, ainda é possivel se inscrever a R$ 37,97. APROVEITE, instruções abaixo.**
 
 Lote Final a **R$ 67** via PIX (instruções abaixo).
 
