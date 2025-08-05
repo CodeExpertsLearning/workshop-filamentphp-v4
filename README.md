@@ -30,7 +30,7 @@ O workshop será de 8 horas divididos entre dois dias: Quinta 07/08 (18 às 22) 
 
 ## Preços e bônus
 
-Lote Final a **R$ 67** via PIX (instruções abaixo).
+### Lote Final a **R$ 67** via PIX (instruções abaixo).
 
 Ganhe 3 meses de acesso ao paínel de membros da Code Experts + 1 cópia do ebook Laravel 12.
 
