@@ -1,61 +1,45 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# Workshop FilamentPHP V4
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+Aprenda FilamentPHP na prática e esteja preparado para o Filament v4!
 
-## About Laravel
+O FilamentPHP é um projeto que visa simplificar a criação de paineis administrativos complexos e é construido
+sobre o Livewire, agregando assim, muita reatividade sem dor de cabeça!
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+No Filament podemos, dentre outras coisas, criar gerenciamentos com ações, filtros, forms e muito mais! Realmente isso é só a ponta do iceberg de produtividade!
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+O que você vai aprender neste workshop:
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+- Filament Ambientação
+- Filament Resources
+- Filament Resources aninhados
+- Filament Actions & Filtros
+- Filament Customizações
+- Filament Multi-Tenant
 
-## Learning Laravel
+Como vamos abordar o Filament V4 traremos neste workshop todas as novidades desta versão para que você esteja por dentro e preparado para a v Stable.
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+Neste momento o Filament encontra-se em Beta, ou seja, temos muito desta v4 consolidada e alterações drásticas não são esperadas. É um momento perfeito para você já se ambientar desta versão.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+Aproveite e não deixe esta chance passar!
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+Venha ter produtividade na criação de suas aplicações com Laravel + FilamentPHP.
 
-## Laravel Sponsors
+## Quando acontece?
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+O workshop será de 8 horas divididos entre dois dias: Quinta 07/08 (18 às 22) e Sábado 09/08 (08 às 12)
 
-### Premium Partners
+## Preços e bônus
 
-- **[Vehikl](https://vehikl.com)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Redberry](https://redberry.international/laravel-development)**
-- **[Active Logic](https://activelogic.com)**
+### Lote Final a **R$ 67** via PIX (instruções abaixo).
 
-## Contributing
+Ganhe 6 meses de acesso ao paínel de membros da Code Experts + 1 cópia do ebook Laravel 12.
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+# Como me inscrever
 
-## Code of Conduct
+Para esta edição dispomos apenas do PIX direto, veja as instruções abaixo:
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+- Realize a transferência do valor do workshop para a chave **learning@codeexperts.com.br**
+- Assim que realizar, me notifique via whatsapp, com o comprovante, neste [link](https://bit.ly/40JeFVs)
+- A partir do contato via whats agente prossegue com os outros passos mas sua inscrição está garantida
 
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Demais dúvidas, me procure no chat em [codeexperts.com.br](https://codeexperts.com.br)
